@@ -25,6 +25,10 @@ This Node.js application provides secure, credential-based access to a digital l
 - LangGraph: Agentic AI framework used for orchestrating threat detection logic. 
 - Gemini: Large language model for natural language processing and generating incident reports.
 
+# License:
+This project is open source and available under the MIT License.
+
+
 
 
 

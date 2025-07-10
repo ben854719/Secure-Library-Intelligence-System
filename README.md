@@ -8,7 +8,7 @@ This Node.js application provides secure, credential-based access to a digital l
 
  # User Authentication & Encryption:
  
-- Strong encryption (e.g. AES-256) applied to user profiles and credentials.
+- Strong encryption applies to the user profiles and the credentials.
 - Authorization through username and password prior to library access.
 - Optional support for multi-factor authentication.
 
